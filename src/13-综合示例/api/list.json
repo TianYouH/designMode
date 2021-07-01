@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "《海天盛筵》",
+    "price": 666,
+    "discount": 1
+  },
+  {
+    "id": 2,
+    "name": "《九天炫舞》",
+    "price": 120,
+    "discount": 0
+  },
+  {
+    "id": 3,
+    "name": "《冰天雪地》",
+    "price": 999,
+    "discount": 0
+  }
+]
