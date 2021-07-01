@@ -28,7 +28,6 @@ let getCart = (function () {
     console.log("cart 是否 存在", cart);
     if (!cart) {
       cart = new Cart()
-      return cart
     }
     return cart;
   }
